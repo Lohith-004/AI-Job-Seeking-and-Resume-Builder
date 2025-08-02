@@ -17,7 +17,7 @@ A smart AI-powered platform that helps users generate professional, customized r
 
 ## 🧠 Demo Screenshot (optional)
 
-![Preview of App Interface](assets/demo.png)
+![Preview of App Interface](assests/demo.png)
 
 ---
 
